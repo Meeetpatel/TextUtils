@@ -24,7 +24,7 @@ function App() {
             <Route exact path="/about" element={<About />}></Route>
             <Route
               exact
-              path="/TextUtils"
+              path="/TextForm"
               element={
                 <TextForm
                   showAlert={showAlert}
