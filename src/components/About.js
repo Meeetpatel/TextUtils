@@ -243,11 +243,21 @@ export default function About() {
           >
             <div className="accordion-body" style={myStyle}>
               <p style={{ fontFamily: "cursive" }} className="small text">
-                Project 1: NewsGoose
+                Project 1: Shree Hari-Interior Designs
+              </p>
+              <a href="https://meeetpatel.github.io/Shreehari/">
+                https://meeetpatel.github.io/Shreehari
+              </a>
+
+              <p style={{ fontFamily: "cursive" }} className="small text mt-3">
+                Project 2: NewsGoose-Daily News by categories
               </p>
               <p style={{ fontFamily: "cursive" }} className="small text">
-                Project 2: TextUtils
+                Project 3: TextUtils-Basic React-app
               </p>
+              <a href="https://meeetpatel.github.io/TextUtils/">
+                https://meeetpatel.github.io/TextUtils
+              </a>
             </div>
           </div>
         </div>
