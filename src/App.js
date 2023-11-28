@@ -1,4 +1,3 @@
-import logo from "./logo.svg";
 import "./App.css";
 import Navbar from "./components/Navbar";
 import TextForm from "./components/TextForm";
@@ -25,7 +24,7 @@ function App() {
             <Route exact path="/about" element={<About />}></Route>
             <Route
               exact
-              path="/"
+              path="/TextUtils"
               element={
                 <TextForm
                   showAlert={showAlert}
