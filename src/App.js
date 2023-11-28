@@ -21,10 +21,10 @@ function App() {
         <Alert Alert={alerts} />
         <div className="my-20">
           <Routes>
-            <Route exact path="/about" element={<About />}></Route>
+            <Route exact path="/About" element={<About />}></Route>
             <Route
               exact
-              path="/TextForm"
+              path="/"
               element={
                 <TextForm
                   showAlert={showAlert}
