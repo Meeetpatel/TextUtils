@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/TextUtils/static/css/main.67b7d5bd.css",
-    "main.js": "/TextUtils/static/js/main.bea7fcb5.js",
+    "main.js": "/TextUtils/static/js/main.05ae388f.js",
     "static/js/787.28cb0dcd.chunk.js": "/TextUtils/static/js/787.28cb0dcd.chunk.js",
     "static/media/MeetPatelImage.png": "/TextUtils/static/media/MeetPatelImage.4d0fdd2d3f64f6dde5c3.png",
     "index.html": "/TextUtils/index.html",
     "main.67b7d5bd.css.map": "/TextUtils/static/css/main.67b7d5bd.css.map",
-    "main.bea7fcb5.js.map": "/TextUtils/static/js/main.bea7fcb5.js.map",
+    "main.05ae388f.js.map": "/TextUtils/static/js/main.05ae388f.js.map",
     "787.28cb0dcd.chunk.js.map": "/TextUtils/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.67b7d5bd.css",
-    "static/js/main.bea7fcb5.js"
+    "static/js/main.05ae388f.js"
   ]
 }
